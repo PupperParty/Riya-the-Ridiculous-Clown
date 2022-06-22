@@ -2,7 +2,7 @@ noseX = 0;
 noseY = 0;
 
 function preload(){
-clown_nose = loadImage('https://i.postimg.cc/2jg5TM0S/RRC.jpg');
+
 }
 
 function setup(){
